@@ -32,3 +32,19 @@ Day 4 links
 
 the joy of stats:
 Source: https://www.youtube.com/watch?v=jbkSRLYSojo&ab_channel=BBC 
+
+Skillsoft Links
+
+Percipio: Data Visualization and Storytelling Bootcamp
+
+SharePoint 
+https://skillsoft.sharepoint.com/:f:/s/LiveBootcamp/EmlyF9fBZBpNjdsnMXo4G5ABa8kQkaiFRSo93rdkCLY0Ug 
+
+Github
+https://github.com/chrisjkeenan/DataViz
+
+Feedback Survey
+https://skillsoft.ca1.qualtrics.com/jfe/form/SV_bkhz4WT6ZnzDduB 
+
+Upcoming Courses
+http://calendar.skillsoft.com
